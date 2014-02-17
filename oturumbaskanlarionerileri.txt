@@ -1,0 +1,24 @@
+* Konferansa ulaşım konusunda sıkıntı yaşanmaması için havaalanı olan bir şehir seçilmeli.
+* Sunum yapılan salonlarda mutlaka bilgisayar bulunmalı.
+* Salonlarda perde bulunması gerekli, tahtaya yansıtmak her zaman yeterli olmuyor.
+* Teknik destek ve yardım masası ekibinin konferans süresinde salonlarda olması gerekli.
+* Oturumlarda değişiklik yapıldığında bunu daha iyi duyurmak gerekir.
+* Tıp ve sağlık alanında yapılacak araştırmaya dayalı çalışmaların bilgisayar mühendisliği ile tıp ve sağlık disiplinlerinin işbirliği ile yapılması not edilmelidir.
+* Sadece uygulama içeren ve karmaşıklığı yüksek olmayan bu uygulamalar, belki Poster olarak hazırlanıp konferansta belirlenen bir gün sergilenebilir.
+* Konferansta, en iyi bildiri ödülü gibi ödüller sonraki yıllarda verilebilir.
+* Belirli alanlarda yurt dışından davetli konuşmacılar çağrılarak, konferansa daha fazla akademisyenin katılması söz konusu olabilir. Alanında uzman isimlerin bulunması ve getirilmesi kolay bir süreç değildir ancak farklı bir etki yaratabilir.
+* Konferansın her sene bir teması olabilir ve o temaya uygun, dünyada önemli isimler konferansa çağrılabilir.
+* SCI-E kapsamındaki dergilerle işbirliği yoluna gidilerek, örneğin seçilen en iyi 5 bildiri genişletilmiş halleriyle özel bir sayıda basılabilir, seçilen bildiriler bu tür bir dergiden gelen davetle genişletilip basılabilir.
+* Konferanstan 1 gün önce akademik dünyada önemli bir çalıştay veya konferans, aynı yerde gerçekleştirilebilir. Bu sayede, bu toplantıya gelecek olanlar, diğer günlerdeki toplantılara da katılma imkanı bulacaktır.
+* Konferansın belki 1 günü yabancı ülkeden gelen katılımcılara da açılabilir, bu sayede farklı ülkelerden de araştırmacı-öğrenci-akademisyen ilgili üniversiteyi ziyaret edebilir ve ülkemiz hakkında pozitif fikirler elde ederek olası işbirliğinin temelleri atılabilir.
+* Bildirilerin bir kısmı poster olarak  kabul edilirse, sunulacak bildiri sayısı azalacaktır ve oturum sayısı da azalacağından, çok sayıda dinleyici salonlarda yer alacaktır, az sayıda dinleyici olması hem firmalar açısından hem de sunanlar açısından motivasyonu bozabilmektedir.
+* Konuşmacılara katılım belgesi haricinde bir belge verilmeli.
+* Engelli katılımcıları göz önünde bulundurarak, engelsiz bir konferans olarak da öne çıkmalıyız.
+* Konferans cagrisinda ders kitabi icerigi (survey dahil) istenmedigini ozgun deneyim istendigini gerekirse orneklerle daha da cok vurgulayalım.
+* Özgür yazılım deneyimleri/uygulamaları adında bir slot oluşturulup bir salonu tümden bu tür sunulara ayırmalı ve özgün olmayan sonuçlar içermeyen tanıtımlar bildiri kitabına alınmamalıdır.
+* Firma sunumları en son birleşik oturum olarak planlanmalıdır.
+* Bildiri değerlendirme için belli bir standart şablon geliştirilmeli ve puanlama yapılmalıdır. Sıralamayı geçen belli sayıda bildiri kabul edilmelidir.
+* Isin icine biraz da sanat katabilir miyiz? Ornegin bir sanatcinin (ama yerel olsun yani ev sahibi universite veya sehirden) resim, heykel, fotograf, grafik gibi bir sergisini de bir yerde yapamaz miyiz?
+* Belki her bildiri icin katilimcilardan bir geri besleme alip, belki de konferansin en iyi bildirisi yapilabilir.
+* Doktora ogrencileri bildirileri oturumu yapamaz miyiz? Bu tamamen arastirma tarafinda olur.
+* Akademik Bilişim kışın en sert olduğu tarihlerde yapıldığından şehir seçiminde hava koşullarını daha çok dikkate alalım. 
